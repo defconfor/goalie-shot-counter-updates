@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "appId": "com.jaydel.goalieshotcounter",
+  "testFlight": {
+    "version": "1.0.2",
+    "buildNumber": 3,
+    "expiresAtUtc": "2027-02-14T02:53:20Z"
+  }
+}
